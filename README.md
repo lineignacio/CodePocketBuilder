@@ -1,6 +1,6 @@
 [![CODEPOCKET BUILDER](version 1)]
 import setting (codepocket_color.jar)
-extract template.rar to Android Studio\plugins\android\lib\templates\
+extract the downloaded file from github to Android Studio\plugins\android\lib\templates\
 
 root build.gradle
 ``` gradle
